@@ -1,0 +1,10 @@
+{
+    "news" : [
+        {"title" : "coronaVirus",
+        "desc" : "is a virus has been spread over the world"},
+        {"title" : "iTi",
+        "desc" : "information technology institue"},
+        {"title" : "Salma",
+        "desc" : "iOS Developer"}
+    ]
+}
